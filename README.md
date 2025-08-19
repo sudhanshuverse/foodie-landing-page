@@ -4,7 +4,7 @@ A simple responsive landing page for a food brand, built with **HTML, CSS, and J
 
 ## 🔗 Live Preview
 
-[Click Here to View](https://your-live-preview-link.com)
+[https://sudhanshuverse.github.io/foodie-landing-page/](https://sudhanshuverse.github.io/foodie-landing-page/)
 
 ## 📸 Preview
 ![Preview](./assets/preview.png)
@@ -17,4 +17,3 @@ A simple responsive landing page for a food brand, built with **HTML, CSS, and J
 
 ## 🛠️ Tech Stack
 - HTML5, CSS3, JavaScript
-
