@@ -14,6 +14,3 @@ A simple responsive landing page for a food brand, built with **HTML, CSS, and J
 - Sticky header with hamburger menu  
 - Smooth scroll navigation  
 - "Go to Top" button  
-
-## 🛠️ Tech Stack
-- HTML5, CSS3, JavaScript
